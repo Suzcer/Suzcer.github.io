@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.com/2022/02/01/One/</loc>
+    <loc>https://suzhicheng.xyz/archives/73626faf.html</loc>
     
     <lastmod>2022-02-15</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/2022/02/14/Two/</loc>
+    <loc>https://suzhicheng.xyz/archives/43748377.html</loc>
     
     <lastmod>2022-02-15</lastmod>
     
@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/link/index.html</loc>
+    <loc>https://suzhicheng.xyz/link/index.html</loc>
     
     <lastmod>2022-02-15</lastmod>
     
@@ -29,7 +29,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/tags/index.html</loc>
+    <loc>https://suzhicheng.xyz/tags/index.html</loc>
     
     <lastmod>2022-02-15</lastmod>
     
@@ -38,7 +38,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/categories/index.html</loc>
+    <loc>https://suzhicheng.xyz/categories/index.html</loc>
     
     <lastmod>2022-02-15</lastmod>
     
@@ -48,7 +48,7 @@
   
 
   <url>
-    <loc>http://example.com/</loc>
+    <loc>https://suzhicheng.xyz/</loc>
     <lastmod>2022-02-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
