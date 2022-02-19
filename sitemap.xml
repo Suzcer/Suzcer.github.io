@@ -2,7 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://suzhicheng.xyz/archives/9c65c9ca.html</loc>
+    
+    <lastmod>2022-02-19</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://suzhicheng.xyz/archives/e460a028.html</loc>
+    
+    <lastmod>2022-02-19</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://suzhicheng.xyz/archives/e2622f12.html</loc>
     
     <lastmod>2022-02-19</lastmod>
     
@@ -74,6 +92,27 @@
 
   
   <url>
+    <loc>https://suzhicheng.xyz/tags/gulp%E5%8E%8B%E7%BC%A9/</loc>
+    <lastmod>2022-02-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://suzhicheng.xyz/tags/Hexo/</loc>
+    <lastmod>2022-02-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://suzhicheng.xyz/tags/utools/</loc>
+    <lastmod>2022-02-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://suzhicheng.xyz/tags/%E6%B2%B9%E7%8C%B4/</loc>
     <lastmod>2022-02-19</lastmod>
     <changefreq>weekly</changefreq>
@@ -88,7 +127,7 @@
   </url>
   
   <url>
-    <loc>https://suzhicheng.xyz/tags/utools/</loc>
+    <loc>https://suzhicheng.xyz/tags/%E7%9C%8B%E6%9D%BF%E7%8C%AB/</loc>
     <lastmod>2022-02-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -104,14 +143,14 @@
   </url>
   
   <url>
-    <loc>https://suzhicheng.xyz/categories/tools/</loc>
+    <loc>https://suzhicheng.xyz/categories/Optimize-blog/</loc>
     <lastmod>2022-02-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://suzhicheng.xyz/categories/Optimize-blog/</loc>
+    <loc>https://suzhicheng.xyz/categories/tools/</loc>
     <lastmod>2022-02-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
