@@ -2,6 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://suzhicheng.xyz/categories/index.html</loc>
+    
+    <lastmod>2022-02-19</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://suzhicheng.xyz/tags/index.html</loc>
+    
+    <lastmod>2022-02-19</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://suzhicheng.xyz/archives/index.html</loc>
+    
+    <lastmod>2022-02-19</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://suzhicheng.xyz/archives/9c65c9ca.html</loc>
     
     <lastmod>2022-02-19</lastmod>
@@ -64,24 +91,6 @@
     <priority>0.6</priority>
   </url>
   
-  <url>
-    <loc>https://suzhicheng.xyz/tags/index.html</loc>
-    
-    <lastmod>2022-02-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://suzhicheng.xyz/categories/index.html</loc>
-    
-    <lastmod>2022-02-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
 
   <url>
     <loc>https://suzhicheng.xyz/</loc>
@@ -120,14 +129,14 @@
   </url>
   
   <url>
-    <loc>https://suzhicheng.xyz/tags/%E5%88%86%E7%B1%BB%E7%A3%81%E9%93%81/</loc>
+    <loc>https://suzhicheng.xyz/tags/%E7%9C%8B%E6%9D%BF%E7%8C%AB/</loc>
     <lastmod>2022-02-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://suzhicheng.xyz/tags/%E7%9C%8B%E6%9D%BF%E7%8C%AB/</loc>
+    <loc>https://suzhicheng.xyz/tags/%E5%88%86%E7%B1%BB%E7%A3%81%E9%93%81/</loc>
     <lastmod>2022-02-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
