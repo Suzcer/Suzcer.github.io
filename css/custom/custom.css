@@ -1,3 +1,8 @@
+/*@import url('https://fonts.googleapis.com/css2?family=Zhi+Mang+Xing&display=swap');*/
+/*h1#site-title {*/
+/*    font-family: 'Zhi Mang Xing', cursive;*/
+/*}*/
+
 svg.icon {
   /* 这里定义svg.icon，避免和Butterfly自带的note标签冲突 */
    width: 1em; height: 1em;
@@ -6,3 +11,15 @@ svg.icon {
    fill: currentColor;
    overflow: hidden;
 }
+
+.aplayer.aplayer-fixed.aplayer-narrow .aplayer-body {
+  left: -66px !important;
+  /* 默认情况下缩进左侧66px，只留一点箭头部分 */
+}
+
+.aplayer.aplayer-fixed.aplayer-narrow .aplayer-body:hover {
+  left: 0 !important;
+  /* 鼠标悬停是左侧缩进归零，完全显示按钮 */
+}
+
+
