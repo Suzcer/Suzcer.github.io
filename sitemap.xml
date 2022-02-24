@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://suzhicheng.xyz/post/263e4906.html</loc>
+    
+    <lastmod>2022-02-24</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://suzhicheng.xyz/post/ea91dd4e.html</loc>
+    
+    <lastmod>2022-02-24</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://suzhicheng.xyz/post/f0711ef8.html</loc>
     
     <lastmod>2022-02-22</lastmod>
@@ -48,15 +66,6 @@
   
   <url>
     <loc>https://suzhicheng.xyz/post/56718f73.html</loc>
-    
-    <lastmod>2022-02-21</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://suzhicheng.xyz/post/263e4906.html</loc>
     
     <lastmod>2022-02-21</lastmod>
     
@@ -112,7 +121,7 @@
 
   <url>
     <loc>https://suzhicheng.xyz/</loc>
-    <lastmod>2022-02-22</lastmod>
+    <lastmod>2022-02-24</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -120,70 +129,77 @@
   
   <url>
     <loc>https://suzhicheng.xyz/tags/Tag-Plugins-Plus/</loc>
-    <lastmod>2022-02-22</lastmod>
+    <lastmod>2022-02-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://suzhicheng.xyz/tags/gulp%E5%8E%8B%E7%BC%A9/</loc>
-    <lastmod>2022-02-22</lastmod>
+    <lastmod>2022-02-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://suzhicheng.xyz/tags/Hexo/</loc>
-    <lastmod>2022-02-22</lastmod>
+    <lastmod>2022-02-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://suzhicheng.xyz/tags/utools/</loc>
-    <lastmod>2022-02-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://suzhicheng.xyz/tags/%E5%88%86%E7%B1%BB%E7%A3%81%E8%B4%B4/</loc>
-    <lastmod>2022-02-22</lastmod>
+    <lastmod>2022-02-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://suzhicheng.xyz/tags/%E6%B2%B9%E7%8C%B4/</loc>
-    <lastmod>2022-02-22</lastmod>
+    <lastmod>2022-02-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://suzhicheng.xyz/tags/%E6%8F%92%E4%BB%B6/</loc>
+    <lastmod>2022-02-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://suzhicheng.xyz/tags/%E5%88%86%E7%B1%BB%E7%A3%81%E8%B4%B4/</loc>
+    <lastmod>2022-02-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://suzhicheng.xyz/tags/%E7%9C%8B%E6%9D%BF%E7%8C%AB/</loc>
-    <lastmod>2022-02-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://suzhicheng.xyz/tags/tools/</loc>
-    <lastmod>2022-02-22</lastmod>
+    <lastmod>2022-02-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://suzhicheng.xyz/tags/%E9%98%BF%E5%A9%86/</loc>
-    <lastmod>2022-02-22</lastmod>
+    <lastmod>2022-02-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://suzhicheng.xyz/tags/%E7%94%B5%E5%BD%B1/</loc>
-    <lastmod>2022-02-22</lastmod>
+    <lastmod>2022-02-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://suzhicheng.xyz/tags/tools/</loc>
+    <lastmod>2022-02-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -192,28 +208,28 @@
   
   <url>
     <loc>https://suzhicheng.xyz/categories/%E9%97%B2%E8%AF%9D/</loc>
-    <lastmod>2022-02-22</lastmod>
+    <lastmod>2022-02-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://suzhicheng.xyz/categories/Optimize-blog/</loc>
-    <lastmod>2022-02-22</lastmod>
+    <lastmod>2022-02-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://suzhicheng.xyz/categories/tools/</loc>
-    <lastmod>2022-02-22</lastmod>
+    <lastmod>2022-02-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://suzhicheng.xyz/categories/Film/</loc>
-    <lastmod>2022-02-22</lastmod>
+    <lastmod>2022-02-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
